@@ -4,7 +4,7 @@
 
 
 ### I'm an art teacher transitioning to a developer carreer (games, data and back-end are my favorites subjects).
-### Here I keep my python studies. 
+### Here I keep my studies. 
 
 ![](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
