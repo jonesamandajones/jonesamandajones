@@ -3,7 +3,7 @@
 <h2 align="center"> Welcome to my respository! 🌈 💜 </h2>
 
 
-<h3 align="left"> I'm an art teacher transitioning to a data carreer (games, AI and code are my favorites subjects). </h3>
+<h3 align="left"> I'm transitioning to a data carreer (games, AI and code are my favorites subjects). </h3>
 <h3 align="left"> Here I keep some of my studies. </h3>
 
 ![Octonyancat](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
