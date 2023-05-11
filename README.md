@@ -6,7 +6,9 @@
 <h3 align="left"> I'm transitioning to a data carreer (games, AI and code are my favorites subjects). </h3>
 <h3 align="left"> Here I keep some of my studies. </h3>
 
-![Octonyancat](https://media1.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
+
+![dataviz](https://64.media.tumblr.com/0d1847fd0175e5ba7d7120ac78921888/tumblr_ptvden5ahi1rv33k2o4_540.gif)
+
 
 
 <h3 align="left">Linkedin:</h3>
