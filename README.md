@@ -3,7 +3,7 @@
 <h2 align="center"> Welcome to my respository! 🌈 💜 </h2>
 
 
-<h3 align="left"> I'm transitioning to a data carreer (games, AI and code are my favorites subjects). </h3>
+<h3 align="left"> I have a master's degree in arts and I transitioned to the data area (data, games, AI and code are my favorites subjects). </h3>
 <h3 align="left"> Here I keep some of my studies. </h3>
 
 <p align="center"> <img src="https://64.media.tumblr.com/0d1847fd0175e5ba7d7120ac78921888/tumblr_ptvden5ahi1rv33k2o4_540.gif" alt="dataviz"> </p>
